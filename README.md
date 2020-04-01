@@ -124,7 +124,6 @@
   - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
   - [react-component](https://github.com/react-component)
   - [awesome-react-components](https://github.com/brillout/awesome-react-components)
-  - [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-CN.md)
 - [vue](https://cn.vuejs.org)
   - [Vue CLI](https://cli.vuejs.org/zh/)
   - [Vuex](https://vuex.vuejs.org/zh/)
@@ -142,16 +141,6 @@
   - [universal](https://github.com/angular/universal)
   - [components](https://github.com/angular/components)
   - [awesome-angular](https://github.com/PatrickJS/awesome-angular)
-- [angular.js](https://github.com/angular/angular.js)
-- [svelte](https://github.com/sveltejs/svelte)
-- [polymer](https://github.com/Polymer/polymer)
-- [omi](https://github.com/Tencent/omi)
-- [preact](https://github.com/preactjs/preact)
-- [hyperapp](https://github.com/jorgebucaran/hyperapp)
-- [moon](https://github.com/kbrsh/moon)
-- [san](https://github.com/baidu/san)
-- [avalon](https://github.com/RubyLouvre/avalon)
-- [riot](https://github.com/riot/riot)
 
 ### Virtual-DOM
 
