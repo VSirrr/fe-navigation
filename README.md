@@ -252,6 +252,7 @@
 - [vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [反向面试](https://github.com/yifeikong/reverse-interview-zh)
+- [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
 ### 周刊博客
 
