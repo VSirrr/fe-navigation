@@ -170,6 +170,7 @@
 - [rollup](https://www.rollupjs.com)
 - [gulp](https://www.gulpjs.com.cn)
 - [fis](http://fis.baidu.com)
+- [yeoman](https://github.com/yeoman)
 - [babel](https://www.babeljs.cn)
 - [postcss](https://github.com/postcss/postcss)
 - [less](https://less.bootcss.com)
