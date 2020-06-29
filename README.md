@@ -241,16 +241,11 @@
 ### 面试
 
 - [FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions)
-- [前端进阶之道](https://yuchengkai.cn)
+- [前端进阶之道](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [前端面试与进阶指南](https://www.cxymsg.com)
 - [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview)
-- [awesome-coding-js](http://www.conardli.top/docs/)
-- [front-end-face-questions](https://github.com/dolymood/front-end-face-questions)
-- [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-- [vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)
-- [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
