@@ -2,7 +2,6 @@
 
 ## 目录
 
-- [MDN](#MDN)
 - [兼容性](#兼容性)
 - [JavaScript](#JavaScript)
 - [Typescript](#Typescript)
@@ -21,36 +20,6 @@
 - [他人总结](#他人总结)
 - [面试](#面试)
 - [周刊博客](#周刊博客)
-
-### MDN
-
-- 基础
-
-  - [HTML](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
-  - [HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
-
-- 脚本
-
-  - [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-  - [DOM](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model)
-  - [Events](https://developer.mozilla.org/zh-CN/docs/Web/Events)
-  - [Web API](https://developer.mozilla.org/zh-CN/docs/Web/API)
-  - [Web Components](https://developer.mozilla.org/zh-CN/docs/Web/Web_components)
-
-- 图形
-
-  - [Canvas](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API)
-  - [SVG](https://developer.mozilla.org/zh-CN/docs/Web/SVG)
-  - [WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
-
-- 其他
-
-  - [Web Media](https://developer.mozilla.org/zh-CN/docs/Web/%E5%AA%92%E4%BD%93)
-  - [WebAssembly](https://developer.mozilla.org/zh-CN/docs/WebAssembly)
-  - [Media Streams](https://developer.mozilla.org/zh-CN/docs/Web/API/Media_Streams_API)
-  - [WebRTC](https://developer.mozilla.org/zh-CN/docs/Web/API/WebRTC_API)
-  - [PWA](https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps)
 
 ### 兼容性
 
@@ -79,9 +48,8 @@
 - 基础库
 
   - [jquery](https://github.com/jquery/jquery)
-  - [backbone](https://github.com/jashkenas/backbone)
-  - [underscore](https://github.com/jashkenas/underscore)
   - [bootstrap](https://github.com/twbs/bootstrap)
+  - [lodash](https://github.com/lodash/lodash)
 
 - 模块化
 
@@ -108,23 +76,13 @@
   - [create-react-app](https://create-react-app.dev)
   - [redux](https://redux.js.org) | [中文文档](http://cn.redux.js.org/index.html)
   - [react-redux](https://react-redux.js.org)
-  - [redux-thunk](https://github.com/reduxjs/redux-thunk)
   - [redux-saga](https://github.com/redux-saga/redux-saga) | [中文文档](https://redux-saga-in-chinese.js.org/docs/api/index.html)
-  - [mobx](https://github.com/mobxjs/mobx) | [中文文档](https://cn.mobx.js.org/)
   - [react-router](https://github.com/ReactTraining/react-router)
-  - [react-router-redux](https://github.com/reactjs/react-router-redux)
-  - [connected-react-router](https://github.com/supasate/connected-react-router)
-  - [redux-persist](https://github.com/rt2zz/redux-persist)
   - [dvajs](https://dvajs.com)
   - [umijs](https://umijs.org/zh/)
   - [nextjs](https://nextjs.org)
-  - [react-transition-group](https://github.com/reactjs/react-transition-group)
-  - [immutable](https://github.com/immutable-js/immutable-js)
   - [React 源码解析](https://react.jokcy.me)
   - [awesome-react](https://github.com/enaqx/awesome-react)
-  - [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
-  - [react-component](https://github.com/react-component)
-  - [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [vue](https://cn.vuejs.org)
   - [Vue CLI](https://cli.vuejs.org/zh/)
   - [Vuex](https://vuex.vuejs.org/zh/)
@@ -154,8 +112,6 @@
 - [express](http://expressjs.com.cn)
 - [koa](https://koa.bootcss.com)
 - [egg](https://github.com/eggjs/egg)
-- [sails](https://github.com/balderdashy/sails)
-- [nest](https://github.com/nestjs/nest)
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [deno](https://github.com/denoland/deno)
@@ -167,33 +123,25 @@
 ### 构建
 
 - [webpack](https://www.webpackjs.com)
-- [rollup](https://www.rollupjs.com)
 - [gulp](https://www.gulpjs.com.cn)
-- [fis](http://fis.baidu.com)
 - [yeoman](https://github.com/yeoman)
 - [babel](https://www.babeljs.cn)
 - [postcss](https://github.com/postcss/postcss)
 - [less](https://less.bootcss.com)
-- [sass](http://sass.bootcss.com)
-- [stylus](http://stylus-lang.com)
+- [eslint](https://cn.eslint.org)
+- [prettier](https://prettier.io)
 
 ### 测试
 
 - [jest](https://github.com/facebook/jest)
-- [enzyme](https://github.com/airbnb/enzyme)
 - [karma](https://github.com/karma-runner/karma)
 - [mocha](https://github.com/mochajs/mocha)
-- [jasmine](http://jasmine.github.io/)
-- [chai](https://github.com/chaijs/chai)
-- [react-testing-library](https://github.com/testing-library/react-testing-library)
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ### 多端
 
 - [taro](https://github.com/NervJS/taro)
 - [uni-app](https://github.com/dcloudio/uni-app)
-- [React Native](https://github.com/facebook/react-native)
-- [flutter](https://github.com/flutter/flutter)
 
 ### 桌面
 
@@ -220,11 +168,7 @@
 - [fiddler](https://www.telerik.com/fiddler)
 - [vConsole](https://github.com/Tencent/vConsole)
 - [whistle](https://wproxy.org/whistle)
-- [termshark](https://termshark.io)
-- [mitmproxy](https://mitmproxy.org)
 - [zan-proxy](https://youzan.github.io/zan-proxy/book)
-- [anyproxy](https://github.com/alibaba/anyproxy)
-- [spy-debugger](https://github.com/wuchangming/spy-debugger)
 
 ### 他人总结
 
