@@ -31,7 +31,6 @@
 
 - 基础
 
-  - [JavaScript 教程](https://wangdoc.com/javascript/index.html)
   - [现代 JavaScript 教程](https://zh.javascript.info/)
   - [JavaScript 开发者应懂的 33 个概念](https://github.com/stephentian/33-js-concepts)
   - [浏览器工作原理](http://blog.poetries.top/browser-working-principle/)
