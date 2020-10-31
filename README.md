@@ -60,8 +60,6 @@
     - [requirejs](https://github.com/requirejs/requirejs)
   - UMD
     - [umd](https://github.com/umdjs/umd)
-  - CMD
-    - [seajs](https://github.com/seajs/seajs)
 
 ### Typescript
 
