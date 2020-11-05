@@ -9,7 +9,7 @@
 - [Virtual-DOM](#Virtual-DOM)
 - [Node](#Node)
 - [Mock](#Mock)
-- [构建](#构建)
+- [工程化](#工程化)
 - [测试](#测试)
 - [多端](#多端)
 - [桌面](#桌面)
@@ -117,7 +117,7 @@
 
 - [Mock](https://github.com/nuysoft/Mock)
 
-### 构建
+### 工程化
 
 - [webpack](https://www.webpackjs.com)
 - [gulp](https://www.gulpjs.com.cn)
