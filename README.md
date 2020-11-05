@@ -33,7 +33,7 @@
 
   - [现代 JavaScript 教程](https://zh.javascript.info/)
   - [JavaScript 开发者应懂的 33 个概念](https://github.com/stephentian/33-js-concepts)
-  - [浏览器工作原理](http://blog.poetries.top/browser-working-principle/)
+  - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
   - [how-javascript-works](https://github.com/Troland/how-javascript-works)
 
 - 函数式编程
@@ -64,7 +64,7 @@
 ### Typescript
 
 - [TypeScript 官网](http://www.typescriptlang.org/index.html)
-- [TypeScript 入门教程](https://ts.xcatliu.com/)
+- [TypeScript 入门教程](https://ts.xcatliu.com)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 
 ### 前端框架
