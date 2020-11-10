@@ -120,13 +120,13 @@
 ### 工程化
 
 - [webpack](https://www.webpackjs.com)
-- [gulp](https://www.gulpjs.com.cn)
 - [yeoman](https://github.com/yeoman)
-- [babel](https://www.babeljs.cn)
-- [postcss](https://github.com/postcss/postcss)
-- [less](https://less.bootcss.com)
+- [gulp](https://www.gulpjs.com.cn)
 - [eslint](https://cn.eslint.org)
 - [prettier](https://prettier.io)
+- [babel](https://www.babeljs.cn)
+- [less](https://less.bootcss.com)
+- [postcss](https://github.com/postcss/postcss)
 
 ### 测试
 
