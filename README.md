@@ -12,7 +12,6 @@
 - [测试](#测试)
 - [多端](#多端)
 - [桌面](#桌面)
-- [性能](#性能)
 - [安全](#安全)
 - [Git](#Git)
 - [调试工具](#调试工具)
@@ -140,14 +139,11 @@
 - [electron](https://github.com/electron)
 - [awesome-electron](https://github.com/sindresorhus/awesome-electron)
 
-### 性能
-
-- [性能专栏（Performance Column）](https://github.com/barretlee/performance-column)
-
 ### 安全
 
 - [XSS](https://juejin.im/post/5bad9140e51d450e935c6d64)
 - [CSRF](https://juejin.im/post/5bc009996fb9a05d0a055192)
+- [常见六大Web安全攻防解析](https://juejin.im/post/6844903772930441230)
 
 ### Git
 
