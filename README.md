@@ -8,7 +8,6 @@
 - [前端框架](#前端框架)
 - [Virtual-DOM](#Virtual-DOM)
 - [Node](#Node)
-- [Mock](#Mock)
 - [工程化](#工程化)
 - [测试](#测试)
 - [多端](#多端)
@@ -112,10 +111,6 @@
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [deno](https://github.com/denoland/deno)
-
-### Mock
-
-- [Mock](https://github.com/nuysoft/Mock)
 
 ### 工程化
 
