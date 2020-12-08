@@ -89,12 +89,6 @@
   - [快速了解 Vue2 MVVM](https://github.com/wangfupeng1988/learn-vue2-mvvm)
   - [用一张思维导图总结了 Vue | Vue-Router | Vuex 源码与架构要点](https://github.com/biaochenxuying/vue-family-mindmap)
   - [awesome-vue](https://github.com/vuejs/awesome-vue)
-- [angular](https://github.com/angular/angular)
-  - [angular-cli](https://github.com/angular/angular-cli)
-  - [rxjs](https://github.com/reactivex/rxjs)
-  - [universal](https://github.com/angular/universal)
-  - [components](https://github.com/angular/components)
-  - [awesome-angular](https://github.com/PatrickJS/awesome-angular)
 
 ### Virtual-DOM
 
