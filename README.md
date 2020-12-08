@@ -180,6 +180,6 @@
 
 - [iv-web weekly](https://github.com/iv-web/weekly)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
-- [每日时报](https://wubaiqing.github.io/zaobao/)
+- [每日时报](https://wubaiqing.github.io/zaobao)
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs)
