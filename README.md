@@ -77,6 +77,7 @@
   - [umijs](https://umijs.org/zh/)
   - [nextjs](https://nextjs.org)
   - [React 源码解析](https://react.jokcy.me)
+  - [React 技术揭秘](https://react.iamkasong.com)
   - [awesome-react](https://github.com/enaqx/awesome-react)
 - [vue](https://cn.vuejs.org)
   - [Vue CLI](https://cli.vuejs.org/zh/)
