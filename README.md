@@ -87,8 +87,6 @@
   - [nuxtjs](https://nuxtjs.org)
   - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis)
   - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
-  - [快速了解 Vue2 MVVM](https://github.com/wangfupeng1988/learn-vue2-mvvm)
-  - [用一张思维导图总结了 Vue | Vue-Router | Vuex 源码与架构要点](https://github.com/biaochenxuying/vue-family-mindmap)
   - [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 ### Virtual-DOM
