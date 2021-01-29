@@ -2,8 +2,6 @@
 
 ## 目录
 
-- [JavaScript 介绍](#JavaScript 介绍)
-- [兼容性](#兼容性)
 - [JavaScript](#JavaScript)
 - [Typescript](#Typescript)
 - [前端框架](#前端框架)
@@ -16,22 +14,15 @@
 - [安全](#安全)
 - [Git](#Git)
 - [调试工具](#调试工具)
+- [兼容性](#兼容性)
 - [他人总结](#他人总结)
 - [面试](#面试)
 - [周刊博客](#周刊博客)
 
 
-### JavaScript 介绍
+### JavaScript
 
 - [JavaScript 20 年](https://cn.history.js.org)
-
-### 兼容性
-
-- [can i use](https://caniuse.com)
-- [w3help](http://w3help.org/zh-cn/kb/)
-- [mobileHack](https://github.com/RubyLouvre/mobileHack)
-
-### JavaScript
 
 - 基础
 
@@ -157,6 +148,12 @@
 - [vConsole](https://github.com/Tencent/vConsole)
 - [whistle](https://wproxy.org/whistle)
 - [zan-proxy](https://youzan.github.io/zan-proxy/book)
+
+### 兼容性
+
+- [can i use](https://caniuse.com)
+- [w3help](http://w3help.org/zh-cn/kb/)
+- [mobileHack](https://github.com/RubyLouvre/mobileHack)
 
 ### 他人总结
 
