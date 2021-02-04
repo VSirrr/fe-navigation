@@ -165,7 +165,6 @@
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
 - [前端常用插件、工具类库汇总](https://juejin.im/post/5ba7d5dd5188255c6140cc9d)
-- [2018 年最值得关注学习的 25 个 JavaScript 开源项目](https://juejin.im/post/5b7a8dc2e51d4538b81efff6)
 - [我的职业是前端工程师](https://github.com/phodal/fe)
 
 ### 面试
