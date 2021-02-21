@@ -50,14 +50,6 @@
   - UMD
     - [umd](https://github.com/umdjs/umd)
 
-- 基础库
-
-  - [axios](https://github.com/axios/axios)
-  - [lodash](https://github.com/lodash/lodash)
-  - [moment](https://github.com/moment/moment)
-  - [clipboard](https://github.com/zenorocha/clipboard.js)
-  - [js-cookie](https://github.com/js-cookie/js-cookie)
-
 ### Typescript
 
 - [TypeScript 官网](http://www.typescriptlang.org/index.html)
