@@ -39,12 +39,6 @@
 
   - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
-- 基础库
-
-  - [jquery](https://github.com/jquery/jquery)
-  - [bootstrap](https://github.com/twbs/bootstrap)
-  - [lodash](https://github.com/lodash/lodash)
-
 - 模块化
 
   - ES6 Module
@@ -55,6 +49,14 @@
     - [requirejs](https://github.com/requirejs/requirejs)
   - UMD
     - [umd](https://github.com/umdjs/umd)
+
+- 基础库
+
+  - [axios](https://github.com/axios/axios)
+  - [lodash](https://github.com/lodash/lodash)
+  - [moment](https://github.com/moment/moment)
+  - [clipboard](https://github.com/zenorocha/clipboard.js)
+  - [js-cookie](https://github.com/js-cookie/js-cookie)
 
 ### Typescript
 
