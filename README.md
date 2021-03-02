@@ -94,14 +94,17 @@
 
 ### 工程化
 
-- [webpack](https://www.webpackjs.com)
 - [yeoman](https://github.com/yeoman)
+- [vite](https://github.com/vitejs/vite)
+- [webpack](https://www.webpackjs.com)
+- [esbuild](https://github.com/evanw/esbuild)
+- [rollup](https://github.com/rollup/rollup)
 - [gulp](https://www.gulpjs.com.cn)
+- [babel](https://www.babeljs.cn)
+- [postcss](https://github.com/postcss/postcss)
+- [less](https://less.bootcss.com)
 - [eslint](https://cn.eslint.org)
 - [prettier](https://prettier.io)
-- [babel](https://www.babeljs.cn)
-- [less](https://less.bootcss.com)
-- [postcss](https://github.com/postcss/postcss)
 
 ### 测试
 
