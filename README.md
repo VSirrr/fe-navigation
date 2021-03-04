@@ -43,6 +43,8 @@
     - [browserify](https://github.com/browserify/browserify)
   - AMD
     - [requirejs](https://github.com/requirejs/requirejs)
+  - CMD
+    - [seajs](https://github.com/seajs/seajs)
   - UMD
     - [umd](https://github.com/umdjs/umd)
 
