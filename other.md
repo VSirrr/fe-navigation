@@ -33,6 +33,7 @@
 ### 周刊博客
 
 - [iv-web weekly](https://github.com/iv-web/weekly)
+- [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
 - [每日时报](https://wubaiqing.github.io/zaobao)
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
