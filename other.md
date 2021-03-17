@@ -29,6 +29,7 @@
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
+- [前端基础知识汇总](https://github.com/su37josephxia/frontend-basic)
 
 ### 周刊博客
 
