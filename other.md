@@ -17,6 +17,9 @@
 - [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
 - [前端常用插件、工具类库汇总](https://juejin.im/post/5ba7d5dd5188255c6140cc9d)
 - [我的职业是前端工程师](https://github.com/phodal/fe)
+- [前端开发博客](https://github.com/kujian/frontendDaily)
+- [前端基础知识汇总](https://github.com/su37josephxia/frontend-basic)
+- [Web-Series](https://ng-tech.icu/Web-Series/#/)
 
 ### 面试
 
@@ -29,7 +32,6 @@
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
-- [前端基础知识汇总](https://github.com/su37josephxia/frontend-basic)
 
 ### 周刊博客
 
