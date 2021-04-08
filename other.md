@@ -19,6 +19,7 @@
 - [前端基础知识汇总](https://github.com/su37josephxia/frontend-basic)
 - [Web-Series](https://ng-tech.icu/Web-Series/#/)
 - [leetcode](https://github.com/azl397985856/leetcode)
+- [what-is-fe](https://github.com/wangfupeng1988/what-is-fe/blob/master/docs/README.md)
 
 ### 面试
 
