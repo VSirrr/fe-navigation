@@ -28,10 +28,10 @@
 - [前端面试与进阶指南](https://www.cxymsg.com)
 - [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 - [前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview)
-- [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 - [FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions)
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
+- [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 
 ### 周刊博客
 
