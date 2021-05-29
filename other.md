@@ -31,7 +31,6 @@
 - [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 - [FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions)
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
-- [FE-interview](https://github.com/qiu-deqing/FE-interview)
 - [面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 
 ### 周刊博客
