@@ -23,8 +23,7 @@
 
 - 基础
 
-  - [现代 JavaScript 教程](https://zh.javascript.info/)
-  - [JavaScript 开发者应懂的 33 个概念](https://github.com/stephentian/33-js-concepts)
+  - [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
   - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
   - [how-javascript-works](https://github.com/Troland/how-javascript-works)
 
