@@ -24,6 +24,7 @@
 - 基础
 
   - [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+  - [ES6 入门教程](https://es6.ruanyifeng.com/)
   - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
   - [how-javascript-works](https://github.com/Troland/how-javascript-works)
 
