@@ -102,7 +102,7 @@
 - [vite](https://github.com/vitejs/vite) | [中文文档](https://cn.vitejs.dev/)
 - [webpack](https://github.com/webpack/webpack) | [中文文档](https://webpack.docschina.org)
 - [esbuild](https://github.com/evanw/esbuild)
-- [rollup](https://github.com/rollup/rollup)
+- [rollup](https://github.com/rollup/rollup) | [中文文档](https://rollupjs.org/guide/zh/)
 - [gulp](https://www.gulpjs.com.cn)
 - [babel](https://www.babeljs.cn)
 - [postcss](https://github.com/postcss/postcss)
