@@ -99,8 +99,8 @@
 ### 工程化
 
 - [yeoman](https://github.com/yeoman)
-- [vite](https://github.com/vitejs/vite)
-- [webpack](https://www.webpackjs.com)
+- [vite](https://github.com/vitejs/vite) | [中文文档](https://cn.vitejs.dev/)
+- [webpack](https://github.com/webpack/webpack) | [中文文档](https://webpack.docschina.org)
 - [esbuild](https://github.com/evanw/esbuild)
 - [rollup](https://github.com/rollup/rollup)
 - [gulp](https://www.gulpjs.com.cn)
