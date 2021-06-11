@@ -34,6 +34,7 @@
 
 ### 周刊博客
 
+- [政采云前端团队](https://www.zoo.team/)
 - [iv-web weekly](https://github.com/iv-web/weekly)
 - [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
