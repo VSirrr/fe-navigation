@@ -60,10 +60,11 @@
 
 - [vue](https://cn.vuejs.org)
   - [Vue CLI](https://cli.vuejs.org/zh/)
+  - [Vite](https://cn.vitejs.dev/)
   - [Vuex](https://vuex.vuejs.org/zh/)
   - [Vue Router](https://router.vuejs.org/zh/)
   - [Vue.js 服务器端渲染指南](https://ssr.vuejs.org/zh/)
-  - [nuxtjs](https://nuxtjs.org)
+  - [Nuxtjs](https://nuxtjs.org)
   - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis)
   - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
   - [awesome-vue](https://github.com/vuejs/awesome-vue)
@@ -99,16 +100,19 @@
 ### 工程化
 
 - [yeoman](https://github.com/yeoman)
-- [vite](https://github.com/vitejs/vite) | [中文文档](https://cn.vitejs.dev/)
-- [webpack](https://github.com/webpack/webpack) | [中文文档](https://webpack.docschina.org)
+- [webpack](https://github.com/webpack/webpack)
 - [esbuild](https://github.com/evanw/esbuild)
-- [rollup](https://github.com/rollup/rollup) | [中文文档](https://rollupjs.org/guide/zh/)
+- [rollup](https://github.com/rollup/rollup)
 - [gulp](https://www.gulpjs.com.cn)
 - [babel](https://www.babeljs.cn)
 - [postcss](https://github.com/postcss/postcss)
 - [less](https://less.bootcss.com)
 - [eslint](https://cn.eslint.org)
 - [prettier](https://prettier.io)
+- [stylelint](https://stylelint.io)
+- [husky](https://typicode.github.io/husky)
+- [lint-staged](https://github.com/okonet/lint-staged)
+- [pretty-quick](https://github.com/azz/pretty-quick)
 
 ### 测试
 
