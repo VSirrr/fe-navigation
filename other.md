@@ -42,6 +42,7 @@
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
 - [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs)
 - [DataV-Team](https://github.com/DataV-Team)
+- [GoogleChrome](https://github.com/GoogleChrome)
 
 ### 分享
 
