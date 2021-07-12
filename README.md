@@ -8,6 +8,7 @@
 - [Virtual-DOM](#Virtual-DOM)
 - [Node](#Node)
 - [工程化](#工程化)
+- [微前端](#微前端)
 - [测试](#测试)
 - [多端](#多端)
 - [桌面](#桌面)
@@ -113,6 +114,12 @@
 - [husky](https://typicode.github.io/husky)
 - [lint-staged](https://github.com/okonet/lint-staged)
 - [pretty-quick](https://github.com/azz/pretty-quick)
+
+### 微前端
+
+- [awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends)
+- [qiankun](https://github.com/umijs/qiankun)
+- [icestark](https://github.com/ice-lab/icestark)
 
 ### 测试
 
