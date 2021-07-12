@@ -117,6 +117,7 @@
 
 ### 微前端
 
+- [microfrontends](https://github.com/phodal/microfrontends)
 - [awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends)
 - [qiankun](https://github.com/umijs/qiankun)
 - [icestark](https://github.com/ice-lab/icestark)
