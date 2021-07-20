@@ -34,6 +34,7 @@
 
 ### 周刊博客
 
+- [京东零售](https://jelly.jd.com/)
 - [政采云前端团队](https://www.zoo.team/)
 - [iv-web weekly](https://github.com/iv-web/weekly)
 - [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
