@@ -9,6 +9,7 @@
 - [Node](#Node)
 - [工程化](#工程化)
 - [微前端](#微前端)
+- [Serverless](#Serverless)
 - [测试](#测试)
 - [多端](#多端)
 - [桌面](#桌面)
@@ -121,6 +122,10 @@
 - [awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends)
 - [qiankun](https://github.com/umijs/qiankun)
 - [icestark](https://github.com/ice-lab/icestark)
+
+### Serverless
+
+- [Serverless 中文网](https://serverlesscloud.cn/)
 
 ### 测试
 
