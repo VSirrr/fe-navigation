@@ -8,9 +8,10 @@
 - [Virtual-DOM](#Virtual-DOM)
 - [Node](#Node)
 - [工程化](#工程化)
+- [前端性能](#前端性能)
+- [错误监控](#错误监控)
 - [微前端](#微前端)
 - [Serverless](#Serverless)
-- [错误监控](#错误监控)
 - [测试](#测试)
 - [多端](#多端)
 - [桌面](#桌面)
@@ -116,6 +117,16 @@
 - [lint-staged](https://github.com/okonet/lint-staged)
 - [pretty-quick](https://github.com/azz/pretty-quick)
 
+### 前端性能
+
+- [lighthouse](https://github.com/GoogleChrome/lighthouse)
+- [zanePerfor](https://github.com/wangweianger/zanePerfor)
+- [web-report-sdk](https://github.com/wangweianger/web-report-sdk)
+
+### 错误监控
+
+- [sentry](https://github.com/getsentry)
+
 ### 微前端
 
 - [microfrontends](https://github.com/phodal/microfrontends)
@@ -129,10 +140,6 @@
 - [Serverless 中文网](https://serverlesscloud.cn/)
 - [Serverless Framework](https://github.com/serverless/serverless)
 - [serverless examples](https://github.com/serverless/examples)
-
-### 错误监控
-
-- [sentry](https://github.com/getsentry)
 
 ### 测试
 
