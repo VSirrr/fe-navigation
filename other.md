@@ -38,6 +38,7 @@
 - [政采云前端团队](https://www.zoo.team/)
 - [iv-web weekly](https://github.com/iv-web/weekly)
 - [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
+- [zenany-weekly](https://github.com/zenany/weekly)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
 - [每日时报](https://wubaiqing.github.io/zaobao)
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
