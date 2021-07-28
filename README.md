@@ -79,6 +79,7 @@
   - [react-router](https://github.com/ReactTraining/react-router)
   - [dvajs](https://dvajs.com)
   - [umijs](https://umijs.org/zh/)
+  - [icejs](https://github.com/alibaba/ice)
   - [nextjs](https://nextjs.org)
   - [React 源码解析](https://react.jokcy.me)
   - [React 技术揭秘](https://react.iamkasong.com)
