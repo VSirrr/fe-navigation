@@ -169,6 +169,7 @@
 
 - [git-guide](https://www.bootcss.com/p/git-guide/)
 - [git-tips](https://github.com/521xueweihan/git-tips)
+- [git-tutorials](https://www.atlassian.com/git/tutorials)
 
 ### 调试工具
 
