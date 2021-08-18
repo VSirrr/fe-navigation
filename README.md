@@ -167,6 +167,7 @@
 
 ### Git
 
+- [git-docs](https://git-scm.com/docs)
 - [git-guide](https://www.bootcss.com/p/git-guide/)
 - [git-tips](https://github.com/521xueweihan/git-tips)
 - [git-tutorials](https://www.atlassian.com/git/tutorials)
