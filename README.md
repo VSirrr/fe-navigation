@@ -68,6 +68,7 @@
   - [Vue Router](https://router.vuejs.org/zh/)
   - [Vue.js 服务器端渲染指南](https://ssr.vuejs.org/zh/)
   - [Nuxtjs](https://nuxtjs.org)
+  - [fes.js](https://github.com/WeBankFinTech/fes.js)
   - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis)
   - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
   - [awesome-vue](https://github.com/vuejs/awesome-vue)
