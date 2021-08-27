@@ -175,9 +175,10 @@
 
 ### 调试工具
 
+- [vConsole](https://github.com/Tencent/vConsole)
+- [eruda](https://github.com/liriliri/eruda)
 - [charles](https://www.charlesproxy.com)
 - [fiddler](https://www.telerik.com/fiddler)
-- [vConsole](https://github.com/Tencent/vConsole)
 - [whistle](https://wproxy.org/whistle)
 - [zan-proxy](https://youzan.github.io/zan-proxy/book)
 
