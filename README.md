@@ -124,6 +124,7 @@
 - [lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [zanePerfor](https://github.com/wangweianger/zanePerfor)
 - [web-report-sdk](https://github.com/wangweianger/web-report-sdk)
+- [browserdiet](https://browserdiet.com/)
 
 ### 错误监控
 
