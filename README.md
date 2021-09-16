@@ -166,6 +166,7 @@
 - [XSS](https://juejin.im/post/5bad9140e51d450e935c6d64)
 - [CSRF](https://juejin.im/post/5bc009996fb9a05d0a055192)
 - [常见六大Web安全攻防解析](https://juejin.im/post/6844903772930441230)
+- [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking)
 
 ### Git
 
