@@ -129,6 +129,9 @@
 ### 错误监控
 
 - [sentry](https://github.com/getsentry)
+- [wangweianger/zanePerfor](https://github.com/wangweianger/zanePerfor)
+- [clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor)
+- [hyj1991/easy-monitor](https://github.com/hyj1991/easy-monitor)
 
 ### 微前端
 
