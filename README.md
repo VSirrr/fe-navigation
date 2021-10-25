@@ -61,7 +61,7 @@
 
 ### 前端框架
 
-- [vue](https://cn.vuejs.org)
+- [vue](https://github.com/vuejs)
   - [Vue CLI](https://cli.vuejs.org/zh/)
   - [Vite](https://cn.vitejs.dev/)
   - [Vuex](https://vuex.vuejs.org/zh/)
