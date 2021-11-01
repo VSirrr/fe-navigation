@@ -25,6 +25,7 @@
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode)
 - [lefex/FE](https://github.com/lefex/FE)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [modern-js-dev](https://github.com/modern-js-dev)
 
 ### 面试
 
