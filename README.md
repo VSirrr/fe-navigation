@@ -27,9 +27,9 @@
 
 - 基础
 
+  - [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
   - [JavaScript 教程](https://wangdoc.com/javascript/)
   - [ES6 入门教程](https://es6.ruanyifeng.com/)
-  - [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
   - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
   - [how-javascript-works](https://github.com/Troland/how-javascript-works)
 
@@ -57,7 +57,6 @@
 ### Typescript
 
 - [TypeScript 官网](http://www.typescriptlang.org/index.html)
-- [TypeScript 入门教程](https://ts.xcatliu.com)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
 
 ### 前端框架
