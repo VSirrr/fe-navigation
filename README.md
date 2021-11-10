@@ -108,6 +108,7 @@
 - [webpack](https://github.com/webpack/webpack)
 - [rollup](https://github.com/rollup/rollup)
 - [esbuild](https://github.com/evanw/esbuild)
+- [swc](https://github.com/swc-project/swc)
 - [babel](https://www.babeljs.cn)
 - [postcss](https://github.com/postcss/postcss)
 - [less](https://less.bootcss.com)
