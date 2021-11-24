@@ -99,7 +99,6 @@
 - [egg](https://github.com/eggjs/egg)
 - [nest](https://github.com/nestjs/nest)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
-- [deno](https://github.com/denoland/deno)
 
 ### 工程化
 
