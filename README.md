@@ -23,7 +23,6 @@
 ### JavaScript
 
 - [JavaScript 20 年](https://cn.history.js.org)
-- [Web 开发技术](https://developer.mozilla.org/zh-CN/docs/Web#docs_for_add-on_developers)
 
 - 基础
 
