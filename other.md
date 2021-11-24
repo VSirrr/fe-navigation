@@ -1,3 +1,5 @@
+# 综合
+
 ## 目录
 
 - [他人总结](#他人总结)
@@ -8,8 +10,6 @@
 ### 他人总结
 
 - [前端团队、技术社区、文档社区、英文社区、语言学习、周刊](https://unclay.github.io/doc/)
-- [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books)
-- [阮一峰 free-books](https://github.com/ruanyf/free-books)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -21,8 +21,6 @@
 - [Web-Series](https://ng-tech.icu/Web-Series/#/)
 - [leetcode](https://github.com/azl397985856/leetcode)
 - [what-is-fe](https://github.com/wangfupeng1988/what-is-fe/blob/master/docs/README.md)
-- [lowcode](https://github.com/H5-Dooring/lowcode)
-- [awesome-lowcode](https://github.com/taowen/awesome-lowcode)
 - [lefex/FE](https://github.com/lefex/FE)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 - [modern-js-dev](https://github.com/modern-js-dev)
@@ -46,11 +44,8 @@
 - [zenany-weekly](https://github.com/zenany/weekly)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
 - [每日时报](https://wubaiqing.github.io/zaobao)
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-- [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs)
 - [DataV-Team](https://github.com/DataV-Team)
 - [GoogleChrome](https://github.com/GoogleChrome)
-- [用友网络大前端技术团队](https://github.com/iuap-design)
 
 ### 分享
 

@@ -1,2 +1,0 @@
-- [quickappcn](https://github.com/quickappcn)
-- [vivoquickapp](https://github.com/vivoquickapp)
