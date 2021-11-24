@@ -5,13 +5,12 @@
 - [JavaScript](#JavaScript)
 - [Typescript](#Typescript)
 - [前端框架](#前端框架)
-- [Virtual-DOM](#Virtual-DOM)
 - [Node](#Node)
 - [工程化](#工程化)
 - [前端性能](#前端性能)
 - [错误监控](#错误监控)
 - [微前端](#微前端)
-- [lowcode](#lowcode)
+- [Lowcode](#Lowcode)
 - [Serverless](#Serverless)
 - [测试](#测试)
 - [多端](#多端)
@@ -87,11 +86,6 @@
   - [图解 React](http://www.7km.top)
   - [awesome-react](https://github.com/enaqx/awesome-react)
 
-### Virtual-DOM
-
-- [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
-- [snabbdom](https://github.com/snabbdom/snabbdom)
-
 ### Node
 
 - [express](https://github.com/expressjs/express)
@@ -140,7 +134,7 @@
 - [qiankun](https://github.com/umijs/qiankun)
 - [icestark](https://github.com/ice-lab/icestark)
 
-### lowcode
+### Lowcode
 
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode)
 
