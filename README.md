@@ -31,6 +31,7 @@
   - [ES6 入门教程](https://es6.ruanyifeng.com/)
   - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
   - [how-javascript-works](https://github.com/Troland/how-javascript-works)
+  - [设计模式](https://www.patterns.dev/)
 
 - 函数式编程
 
