@@ -111,7 +111,6 @@
 - [stylelint](https://stylelint.io)
 - [husky](https://typicode.github.io/husky)
 - [lint-staged](https://github.com/okonet/lint-staged)
-- [pretty-quick](https://github.com/azz/pretty-quick)
 
 ### 前端性能
 
