@@ -4,7 +4,7 @@
 
 - [他人总结](#他人总结)
 - [面试](#面试)
-- [周刊博客](#周刊博客)
+- [周刊博客/团队](#周刊博客/团队)
 - [分享](#分享)
 
 ### 他人总结
@@ -36,7 +36,7 @@
 - [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 - [leetcode](https://github.com/azl397985856/leetcode)
 
-### 周刊博客
+### 周刊博客/团队
 
 - [京东零售](https://github.com/jdf2e)
 - [政采云前端团队](https://www.zoo.team/)
@@ -47,6 +47,7 @@
 - [每日时报](https://wubaiqing.github.io/zaobao)
 - [DataV-Team](https://github.com/DataV-Team)
 - [GoogleChrome](https://github.com/GoogleChrome)
+- [airbnb](https://github.com/airbnb)
 
 ### 分享
 
