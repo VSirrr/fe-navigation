@@ -5,6 +5,7 @@
 - [他人总结](#他人总结)
 - [面试](#面试)
 - [周刊博客](#周刊博客)
+- [Group](#Group)
 - [分享](#分享)
 
 ### 他人总结
@@ -38,16 +39,22 @@
 
 ### 周刊博客
 
-- [京东零售](https://github.com/jdf2e)
 - [政采云前端团队](https://www.zoo.team/)
 - [iv-web weekly](https://github.com/iv-web/weekly)
 - [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
 - [zenany-weekly](https://github.com/zenany/weekly)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
 - [每日时报](https://wubaiqing.github.io/zaobao)
+
+### Group
+
+- [Vercel](https://github.com/vercel)
+- [Remix](https://github.com/remix-run)
+- [Nuxt](https://github.com/nuxt)
+- [京东零售](https://github.com/jdf2e)
 - [DataV-Team](https://github.com/DataV-Team)
 - [GoogleChrome](https://github.com/GoogleChrome)
-- [airbnb](https://github.com/airbnb)
+- [Airbnb](https://github.com/airbnb)
 
 ### 分享
 
