@@ -20,11 +20,9 @@
 - [前端开发博客](https://github.com/kujian/frontendDaily)
 - [前端基础知识汇总](https://github.com/su37josephxia/frontend-basic)
 - [Web-Series](https://ng-tech.icu/Web-Series/#/)
-- [leetcode](https://github.com/azl397985856/leetcode)
 - [what-is-fe](https://github.com/wangfupeng1988/what-is-fe/blob/master/docs/README.md)
 - [lefex/FE](https://github.com/lefex/FE)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-- [modern-js-dev](https://github.com/modern-js-dev)
 
 ### 面试
 
@@ -51,10 +49,11 @@
 - [Vercel](https://github.com/vercel)
 - [Remix](https://github.com/remix-run)
 - [Nuxt](https://github.com/nuxt)
-- [京东零售](https://github.com/jdf2e)
 - [DataV-Team](https://github.com/DataV-Team)
 - [GoogleChrome](https://github.com/GoogleChrome)
 - [Airbnb](https://github.com/airbnb)
+- [modern-js-dev](https://github.com/modern-js-dev)
+- [京东零售](https://github.com/jdf2e)
 
 ### 分享
 
