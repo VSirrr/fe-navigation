@@ -34,6 +34,7 @@
 - [面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 - [反向面试](https://github.com/yifeikong/reverse-interview-zh)
 - [leetcode](https://github.com/azl397985856/leetcode)
+- [JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms)
 
 ### 周刊博客
 
