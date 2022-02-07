@@ -23,41 +23,17 @@
 ### JavaScript
 
 - [JavaScript 20 年](https://cn.history.js.org)
-
-- 基础
-
-  - [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-  - [JavaScript 教程](https://wangdoc.com/javascript/)
-  - [ES6 入门教程](https://es6.ruanyifeng.com/)
-  - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
-  - [how-javascript-works](https://github.com/Troland/how-javascript-works)
-  - [设计模式](https://www.patterns.dev/)
-
-- 函数式编程
-
-  - [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content)
-
-- 算法
-
-  - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-
-- 模块化
-
-  - ES6 Module
-    - [systemjs](https://github.com/systemjs/systemjs)
-  - CommonJS
-    - [browserify](https://github.com/browserify/browserify)
-  - AMD
-    - [requirejs](https://github.com/requirejs/requirejs)
-  - CMD
-    - [seajs](https://github.com/seajs/seajs)
-  - UMD
-    - [umd](https://github.com/umdjs/umd)
+- [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [ES6 入门教程](https://es6.ruanyifeng.com/)
+- [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
+- [how-javascript-works](https://github.com/Troland/how-javascript-works)
+- [设计模式](https://www.patterns.dev/)
+- [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content)
 
 ### Typescript
 
-- [TypeScript 官网](http://www.typescriptlang.org/index.html)
-- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/#why)
+- [TypeScript 官网](http://www.typescriptlang.org)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese)
 
 ### 前端框架
 
