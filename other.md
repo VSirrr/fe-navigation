@@ -23,6 +23,7 @@
 - [what-is-fe](https://github.com/wangfupeng1988/what-is-fe/blob/master/docs/README.md)
 - [lefex/FE](https://github.com/lefex/FE)
 - [spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [前端知识进阶](https://github.com/dennis-jiang/Front-End-Knowledges)
 
 ### 面试
 
