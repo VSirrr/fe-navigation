@@ -123,8 +123,9 @@
 ### 测试
 
 - [jest](https://github.com/facebook/jest)
-- [karma](https://github.com/karma-runner/karma)
 - [mocha](https://github.com/mochajs/mocha)
+- [karma](https://github.com/karma-runner/karma)
+- [cypress](https://github.com/cypress-io/cypress)
 - [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 
 ### 多端
