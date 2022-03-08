@@ -29,6 +29,7 @@
 - [how-javascript-works](https://github.com/Troland/how-javascript-works)
 - [设计模式](https://www.patterns.dev/)
 - [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content)
+- [web.dev](https://web.dev/learn/)
 
 ### Typescript
 
