@@ -63,6 +63,8 @@
 - [Airbnb](https://github.com/airbnb)
 - [modern-js-dev](https://github.com/modern-js-dev)
 - [京东零售](https://github.com/jdf2e)
+- [ice-lab](https://github.com/ice-lab)
+- [umijs](https://github.com/umijs)
 
 ### 分享
 
