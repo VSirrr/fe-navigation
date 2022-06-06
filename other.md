@@ -31,13 +31,14 @@
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
 - [alienzhou/blog](https://github.com/alienzhou/blog)
 - [sl1673495/blogs](https://github.com/sl1673495/blogs)
+- [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note)
 
 ### 面试
 
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [前端面试与进阶指南](https://www.cxymsg.com)
 - [FE-Interview-Questions](https://github.com/poetries/FE-Interview-Questions)
-- [如何通过饿了么 Node.js 面试](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 - [前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview)
 - [面试真题](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?from=logout&table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 - [反向面试](https://github.com/yifeikong/reverse-interview-zh)
