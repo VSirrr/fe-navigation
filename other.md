@@ -31,6 +31,7 @@
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
 - [alienzhou/blog](https://github.com/alienzhou/blog)
 - [sl1673495/blogs](https://github.com/sl1673495/blogs)
+- [WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [SSHeRun/CS-Xmind-Note](https://github.com/SSHeRun/CS-Xmind-Note)
 
