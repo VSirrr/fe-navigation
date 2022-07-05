@@ -150,7 +150,7 @@
 - [git-guide](https://www.bootcss.com/p/git-guide/)
 - [git-tips](https://github.com/521xueweihan/git-tips)
 - [git-tutorials](https://www.atlassian.com/git/tutorials)
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+- [git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md)
 
 ### 调试工具
 
