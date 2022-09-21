@@ -95,7 +95,7 @@
 - [awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends)
 - [single-spa](https://github.com/single-spa/single-spa)
 - [qiankun](https://github.com/umijs/qiankun)
-- [icestark](https://github.com/ice-lab/icestark)
+<!-- - [icestark](https://github.com/ice-lab/icestark) -->
 
 ### Lowcode
 
