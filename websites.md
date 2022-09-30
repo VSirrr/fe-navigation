@@ -24,11 +24,11 @@
   - [carbon - 代码片段生成图片](https://carbon.now.sh/)
   - [cubic-bezier - 贝塞尔曲线工具](https://cubic-bezier.com/)
   - [mocky - The world easiest & fastest tool belts to mock your APIs](https://designer.mocky.io/)
+  - [TinyPNG - 在线压缩图片工具](https://tinify.cn/)
 
 - 设计、流程图
   - [process on - 免费在线流程图思维导图](https://www.processon.com/)
   - [photopea - 在线图片编辑器](https://www.photopea.com/)
-  - [TinyPNG - 在线压缩图片工具](https://tinify.cn/)
   - [loading.io - 在线 loading 制作工具](https://loading.io/)
   - [seeseed - 无穷尽设计可能](https://www.seeseed.com/)
 
