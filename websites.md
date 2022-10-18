@@ -32,6 +32,10 @@
   - [photopea - 在线图片编辑器](https://www.photopea.com/)
   - [loading.io - 在线 loading 制作工具](https://loading.io/)
   - [seeseed - 无穷尽设计可能](https://www.seeseed.com/)
+  - [iconfont - 阿里巴巴矢量图标库](https://www.iconfont.cn/)
+  - [icons8 - Free Icons, Clipart Illustrations, Photos, and Music](https://icons8.com/)
+  - [iconfinder - 6,850,000+ free and premium vector icons, illustrations and 3D illustrations](https://www.iconfinder.com/)
+  - [flaticon - Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com/)
 
 ## 资源
 
