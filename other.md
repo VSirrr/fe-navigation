@@ -30,6 +30,7 @@
 - [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)
 - [kujian/frontendDaily](https://github.com/kujian/frontendDaily)
 - [alienzhou/blog](https://github.com/alienzhou/blog)
+- [amandakelake/blog](https://github.com/amandakelake/blog)
 - [sl1673495/blogs](https://github.com/sl1673495/blogs)
 - [WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
