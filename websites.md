@@ -21,6 +21,7 @@
 
 - 前端工具
   - [Apifox - API 文档、API 调试、API Mock、API 自动化测试](https://www.apifox.cn)
+  - [Charles 激活码计算器](https://www.zzzmode.com/mytools/charles/)
   - [Can I use - Support tables for HTML5, CSS3, etc](https://caniuse.com)
   - [carbon - 代码片段生成图片](https://carbon.now.sh/)
   - [cubic-bezier - 贝塞尔曲线工具](https://cubic-bezier.com/)
