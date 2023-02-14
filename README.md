@@ -94,9 +94,8 @@
 
 - [microfrontends](https://github.com/phodal/microfrontends)
 - [awesome-micro-frontends](https://github.com/semlinker/awesome-micro-frontends)
-- [single-spa](https://github.com/single-spa/single-spa)
+- [wujie](https://github.com/Tencent/wujie)
 - [qiankun](https://github.com/umijs/qiankun)
-<!-- - [icestark](https://github.com/ice-lab/icestark) -->
 
 ### Lowcode
 
