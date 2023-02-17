@@ -2,6 +2,7 @@
 
 ## 目录
 
+- [基础](#基础)
 - [JavaScript](#JavaScript)
 - [Typescript](#Typescript)
 - [Vue](#Vue)
@@ -20,16 +21,19 @@
 - [调试工具](#调试工具)
 - [兼容性](#兼容性)
 
+### 基础
+
+- [web.dev](https://web.dev/learn/)
+- [MDN](https://developer.mozilla.org/zh-CN/)
+- [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
+- [how-javascript-works](https://github.com/Troland/how-javascript-works)
+
 ### JavaScript
 
 - [JavaScript 20 年](https://cn.history.js.org)
-- [MDN JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 - [ES6 入门教程](https://es6.ruanyifeng.com/)
-- [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
-- [how-javascript-works](https://github.com/Troland/how-javascript-works)
 - [设计模式](https://www.patterns.dev/)
 - [JS 函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content)
-- [web.dev](https://web.dev/learn/)
 
 ### Typescript
 

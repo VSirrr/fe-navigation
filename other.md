@@ -49,7 +49,7 @@
 
 ### 周刊博客
 
-- [政采云前端团队](https://www.zoo.team/)
+<!-- - [政采云前端团队](https://www.zoo.team/) -->
 - [iv-web weekly](https://github.com/iv-web/weekly)
 - [TNT-Weekly](https://github.com/tnfe/TNT-Weekly)
 - [zenany-weekly](https://github.com/zenany/weekly)
@@ -58,7 +58,7 @@
 ### Group
 
 - [Vercel](https://github.com/vercel)
-- [Remix](https://github.com/remix-run)
+<!-- - [Remix](https://github.com/remix-run) -->
 - [Nuxt](https://github.com/nuxt)
 - [DataV-Team](https://github.com/DataV-Team)
 - [GoogleChrome](https://github.com/GoogleChrome)
