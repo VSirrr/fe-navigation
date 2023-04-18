@@ -23,7 +23,7 @@
 
 ### 基础
 
-- [web.dev](https://web.dev/learn/)
+<!-- - [web.dev](https://web.dev/learn/) -->
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
 - [how-javascript-works](https://github.com/Troland/how-javascript-works)
