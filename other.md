@@ -58,7 +58,6 @@
 ### Group
 
 - [Vercel](https://github.com/vercel)
-<!-- - [Remix](https://github.com/remix-run) -->
 - [Nuxt](https://github.com/nuxt)
 - [DataV-Team](https://github.com/DataV-Team)
 - [GoogleChrome](https://github.com/GoogleChrome)
