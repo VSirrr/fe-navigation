@@ -50,7 +50,6 @@
 ## 资源
 
 - [pickfree - 汇总免费资源的导航网站](http://www.pickfree.cn/)
-- [xclient - 精品MAC应用分享](https://xclient.info/)
+- [xclient - 精品 MAC 应用分享](https://xclient.info/)
 - [wallhaven - The best wallpapers on the Net](https://wallhaven.cc/)
 - [CSSFX - Beautifully simple click-to-copy CSS effects](https://cssfx.netlify.app/)
-
