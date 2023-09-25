@@ -16,7 +16,6 @@
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [awesome-bookmarks](https://github.com/PanJiaChen/awesome-bookmarks)
 - [前端常用插件、工具类库汇总](https://juejin.im/post/5ba7d5dd5188255c6140cc9d)
-- [我的职业是前端工程师](https://github.com/phodal/fe)
 - [前端开发博客](https://github.com/kujian/frontendDaily)
 - [前端基础知识汇总](https://github.com/su37josephxia/frontend-basic)
 - [Web-Series](https://ng-tech.icu/Web-Series/#/)
