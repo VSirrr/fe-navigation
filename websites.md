@@ -28,6 +28,8 @@
   - [mocky - The world easiest & fastest tool belts to mock your APIs](https://designer.mocky.io/)
   - [TinyPNG - 在线压缩图片工具](https://tinify.cn/)
   - [Bundlephobia - Size of npm dependencies](https://bundlephobia.com)
+  - [开发者武器库 — 做开发者最专业最好用的专业工具箱](https://devtool.tech/)
+  - [前端导航](https://lee.js.org/My-Nav/FrontEnd/#/Index)
 
 - 设计、流程图
   - [process on - 免费在线流程图思维导图](https://www.processon.com/)
