@@ -6,6 +6,7 @@
 - [JavaScript](#JavaScript)
 - [Typescript](#Typescript)
 - [Vue](#Vue)
+- [React](#React)
 - [Node](#Node)
 - [工程化](#工程化)
 - [前端性能](#前端性能)
@@ -24,6 +25,7 @@
 ### 基础
 
 <!-- - [web.dev](https://web.dev/learn/) -->
+
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
 - [how-javascript-works](https://github.com/Troland/how-javascript-works)
@@ -55,11 +57,28 @@
 - [Vue.js 源码解析](https://github.com/answershuto/learnVue)
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 
+### React
+
+- [react](https://reactjs.org)
+- [create-react-app](https://create-react-app.dev)
+- [redux](https://redux.js.org) | [中文文档](http://cn.redux.js.org/index.html)
+- [react-redux](https://react-redux.js.org)
+- [redux-saga](https://github.com/redux-saga/redux-saga) | [中文文档](https://redux-saga-in-chinese.js.org/docs/api/index.html)
+- [react-router](https://github.com/ReactTraining/react-router)
+- [dvajs](https://dvajs.com)
+- [umijs](https://umijs.org/zh/)
+- [icejs](https://github.com/alibaba/ice)
+- [nextjs](https://nextjs.org)
+- [React 源码解析](https://react.jokcy.me)
+- [React 技术揭秘](https://react.iamkasong.com)
+- [图解 React](http://www.7km.top)
+- [awesome-react](https://github.com/enaqx/awesome-react)
+
 ### Node
 
 - [express](https://github.com/expressjs/express)
 - [koa](https://github.com/koajs/koa)
-- [egg](https://github.com/eggjs/egg)
+<!-- - [egg](https://github.com/eggjs/egg) -->
 - [nest](https://github.com/nestjs/nest)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
@@ -119,7 +138,8 @@
 
 ### 多端
 
-- [taro](https://github.com/NervJS/taro)
+<!-- - [taro](https://github.com/NervJS/taro) -->
+
 - [uni-app](https://github.com/dcloudio/uni-app)
 
 ### 桌面
@@ -156,18 +176,3 @@
 - [can i use](https://caniuse.com)
 - [mobileHack](https://github.com/RubyLouvre/mobileHack)
 <!-- - [w3help](http://w3help.org/zh-cn/kb/) -->
-
-<!-- - [react](https://reactjs.org)
-  - [create-react-app](https://create-react-app.dev)
-  - [redux](https://redux.js.org) | [中文文档](http://cn.redux.js.org/index.html)
-  - [react-redux](https://react-redux.js.org)
-  - [redux-saga](https://github.com/redux-saga/redux-saga) | [中文文档](https://redux-saga-in-chinese.js.org/docs/api/index.html)
-  - [react-router](https://github.com/ReactTraining/react-router)
-  - [dvajs](https://dvajs.com)
-  - [umijs](https://umijs.org/zh/)
-  - [icejs](https://github.com/alibaba/ice)
-  - [nextjs](https://nextjs.org)
-  - [React 源码解析](https://react.jokcy.me)
-  - [React 技术揭秘](https://react.iamkasong.com)
-  - [图解 React](http://www.7km.top)
-  - [awesome-react](https://github.com/enaqx/awesome-react) -->
