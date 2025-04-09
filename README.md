@@ -24,8 +24,7 @@
 
 ### 基础
 
-<!-- - [web.dev](https://web.dev/learn/) -->
-
+- [web.dev](https://web.dev/learn/)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [浏览器工作原理](http://blog.poetries.top/browser-working-principle)
 - [how-javascript-works](https://github.com/Troland/how-javascript-works)
@@ -67,7 +66,7 @@
 - [react-router](https://github.com/ReactTraining/react-router)
 - [dvajs](https://dvajs.com)
 - [umijs](https://umijs.org/zh/)
-<!-- - [icejs](https://github.com/alibaba/ice) -->
+- [icejs](https://github.com/alibaba/ice)
 - [nextjs](https://nextjs.org)
 - [React 技术揭秘](https://react.iamkasong.com)
 - [awesome-react](https://github.com/enaqx/awesome-react)
@@ -76,7 +75,7 @@
 
 - [express](https://github.com/expressjs/express)
 - [koa](https://github.com/koajs/koa)
-<!-- - [egg](https://github.com/eggjs/egg) -->
+- [egg](https://github.com/eggjs/egg)
 - [nest](https://github.com/nestjs/nest)
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
@@ -136,8 +135,7 @@
 
 ### 多端
 
-<!-- - [taro](https://github.com/NervJS/taro) -->
-
+- [taro](https://github.com/NervJS/taro)
 - [uni-app](https://github.com/dcloudio/uni-app)
 
 ### 桌面
